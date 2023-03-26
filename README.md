@@ -2,9 +2,6 @@
 
 Parental leave policies can have a significant impact on the well-being and career trajectories of working parents. However, access to paid parental leave varies widely across different industries and employers. To shed light on this issue, we have compiled a dataset containing information on the paid and unpaid weeks off offered by 1,601 companies as part of their maternity and paternity leave policies.
 
-Each record in the dataset corresponds to a different company, and includes the company's name and industry as well as the number of weeks of paid and unpaid leave they offer to new parents. The data was crowdsourced from various online sources and is current as of [insert date]. This dataset can be a valuable resource for researchers, policymakers, and anyone interested in understanding the landscape of parental leave policies in different industries and companies.
-
-
 ## Project Flow Steps 
 
 * <p><a href="#link1">Business Requirement Document & Data Gathering</a></p>
