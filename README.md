@@ -92,10 +92,10 @@ If you want to see my __Visuals and its working in detail__ . So , Kindly  visit
 # <h2 id="link6">Insights</h2> <br>
 
 * __The majority of companies listed in the data provide 52 days of paid maternity leave.__
-* __ Only a few companies provide paid paternity leave, with the highest being 35 days offered by LAC-Group and lowest  offered by Brain and Company.__
+* __Only a few companies provide paid paternity leave, with the highest being 35 days offered by LAC-Group and lowest  offered by Brain and Company.__
 * __The industries with the most representation in the list are Technology and Insurance.__
-* __ Non-profit organizations also provide paid maternity leave.__
-* __ Grant Thornton offers the highest number of weeks of paid paternity leave among the listed companies, with 51 days.__
+* __Non-profit organizations also provide paid maternity leave.__
+* __Grant Thornton offers the highest number of weeks of paid paternity leave among the listed companies, with 51 days.__
 * __Only a few companies provide unpaid paternity leave, with the lowest being 12 weeks offered by several companies.__
 * __Some government and nonprofit organizations also provide unpaid maternity leave.__
 * __McDonald's offers the highest number of weeks of unpaid paternity leave among the listed companies, with 29 days.__
@@ -115,8 +115,3 @@ You can also follow my GitHub Profile to stay updated about my latest projects:<
 
 
 If you liked the repo then kindly support it by giving it a star ⭐.
-
-
-
-
-
